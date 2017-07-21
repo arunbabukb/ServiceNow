@@ -115,6 +115,44 @@
             <sys_updated_on>2017-07-19 17:49:36</sys_updated_on>
             <value>8</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_106319_needit_needit</name>
+            <sequence>6</sequence>
+            <sys_created_by>arunbabukb</sys_created_by>
+            <sys_created_on>2017-07-21 19:13:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>629c6b56db400300843c56f0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arunbabukb</sys_updated_by>
+            <sys_updated_on>2017-07-21 19:13:54</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_106319_needit_needit</name>
+            <sequence>7</sequence>
+            <sys_created_by>arunbabukb</sys_created_by>
+            <sys_created_on>2017-07-21 21:07:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83960822db800300843c56f0cf96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arunbabukb</sys_updated_by>
+            <sys_updated_on>2017-07-21 21:07:33</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>
             <name>x_106319_needit_needit</name>
@@ -122,8 +160,8 @@
             <sys_created_by>arunbabukb</sys_created_by>
             <sys_created_on>2017-07-19 17:49:36</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>0826c5b5db480300843c56f0cf961903</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>8da6c7d2db000300843c56f0cf961929</sys_id>
+            <sys_mod_count>4</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="NeedIt" source="x_106319_needit">d5016c21db000300843c56f0cf9619fe</sys_package>
             <sys_policy/>
@@ -131,7 +169,7 @@
             <sys_scope display_value="NeedIt">d5016c21db000300843c56f0cf9619fe</sys_scope>
             <sys_update_name>sys_choice_x_106319_needit_needit_state</sys_update_name>
             <sys_updated_by>arunbabukb</sys_updated_by>
-            <sys_updated_on>2017-07-19 17:50:58</sys_updated_on>
+            <sys_updated_on>2017-07-21 21:07:33</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>
