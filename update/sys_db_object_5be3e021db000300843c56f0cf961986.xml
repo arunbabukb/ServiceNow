@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>arunbabukb</sys_created_by>
         <sys_created_on>2017-07-18 20:48:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5be3e021db000300843c56f0cf961986</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>NeedIt</sys_name>

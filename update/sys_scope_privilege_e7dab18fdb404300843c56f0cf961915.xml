@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>arunbabukb</sys_created_by>
         <sys_created_on>2017-07-23 18:52:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e7dab18fdb404300843c56f0cf961915</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>problem</sys_name>
