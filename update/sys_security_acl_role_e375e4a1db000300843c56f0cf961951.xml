@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>arunbabukb</sys_created_by>
         <sys_created_on>2017-07-18 20:48:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e375e4a1db000300843c56f0cf961951</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_106319_needit_needit.x_106319_needit_needit_user</sys_name>
